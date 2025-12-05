@@ -105,3 +105,9 @@ This project also includes a `python basics/` directory with various Python lear
 - String manipulation
 
 ---
+
+## Demo
+
+https://github.com/user-attachments/assets/da56b4b3-9530-4229-a533-32e7cc46973a
+
+
